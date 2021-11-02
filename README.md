@@ -1,6 +1,6 @@
  ## Hi, I’m Stella :wave: :peach:
  
- I am a software engineer who specializes in fullstack and front end development!
+ I am a software engineer who specializes in fullstack and front end development
  
  Full Stack engineer SITE intern @ Course Hero
 
